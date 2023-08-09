@@ -29,7 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   flutter:
-    sdk: flutter 3.10.6
+    sdk: flutter
 
   surf_lint_rules: 3.0.0
 
