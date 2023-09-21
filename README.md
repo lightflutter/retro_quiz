@@ -11,3 +11,6 @@ Firebase
 
 This project is a starting point for a Flutter application.
 
+Use stack:
+Flutter, Firebase
+
